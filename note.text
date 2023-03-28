@@ -1,0 +1,15 @@
+Book
+- id
+- name
+- slug
+- qty
+- images
+- desc
+Category_book //danh mục sách
+- name
+- slug
+- images
+- status
+single_book // đơn sách
+custom // thông tin người mua
+email: jxzwwpxztiltqssi
